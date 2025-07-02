@@ -1,0 +1,12 @@
+{
+  "name": "chinese-chess-reporter",
+  "version": "1.0.0",
+  "description": "HTML reporter for cucumber tests",
+  "main": "index.js",
+  "scripts": {
+    "report": "node generate-report.js"
+  },
+  "dependencies": {
+    "cucumber-html-reporter": "^5.5.0"
+  }
+}

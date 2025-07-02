@@ -35,3 +35,23 @@ buildNumber.properties
 
 # Mac
 .DS_Store
+
+# Node.js
+node_modules/
+reports/
+package-lock.json
+npm-debug.log*
+yarn-error.log
+
+# Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+*.g.dart
+*.freezed.dart
+
+# IDE & Tools
+.idea/
+.vscode/
+*.asta
